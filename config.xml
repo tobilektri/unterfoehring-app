@@ -4,8 +4,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "de.itmeindl.wawaapp1"
-        version   = "1.2.1"
-        versionCode="7">
+        version   = "1.3.0"
+        versionCode="8">
 
     <name>WachApp Unterfoehring</name>
 
